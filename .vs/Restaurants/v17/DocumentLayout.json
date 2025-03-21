@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|c:\\sanjay\\2025\\demo\\resturants\\restaurants\\restaurants.api\\controllers\\weatherforecastservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\controllers\\weatherforecastservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|c:\\sanjay\\2025\\demo\\resturants\\restaurants\\restaurants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|c:\\sanjay\\2025\\demo\\resturants\\restaurants\\restaurants.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|c:\\sanjay\\2025\\demo\\resturants\\restaurants\\restaurants.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8442AADB-1BF8-47E1-BC6C-FEBB110F2DA9}|Restaurants.API\\Restaurants.API.csproj|solutionrelative:restaurants.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastServices.cs",
+              "DocumentMoniker": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Controllers\\WeatherForecastServices.cs",
+              "RelativeDocumentMoniker": "Restaurants.API\\Controllers\\WeatherForecastServices.cs",
+              "ToolTip": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Controllers\\WeatherForecastServices.cs",
+              "RelativeToolTip": "Restaurants.API\\Controllers\\WeatherForecastServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:22:08.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Restaurants.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Restaurants.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:54:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Restaurants.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Restaurants.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:54:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurants.API\\Program.cs",
+              "ToolTip": "C:\\Sanjay\\2025\\Demo\\Resturants\\Restaurants\\Restaurants.API\\Program.cs",
+              "RelativeToolTip": "Restaurants.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:32:18.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
